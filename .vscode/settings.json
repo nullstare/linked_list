@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "timer": "cpp",
+        "__node_handle": "c",
+        "chrono": "c",
+        "*.tcc": "cpp",
+        "list": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "algorithm": "cpp",
+        "filesystem": "cpp",
+        "linked_list.h": "c"
+    }
+}
